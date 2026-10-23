@@ -1,0 +1,84 @@
+{
+  "words": [
+    {
+      "word": "ocean",
+      "description": "A large body of salt water covering most of the Earth's surface."
+    },
+    {
+      "word": "pencil",
+      "description": "A writing tool made of wood with a graphite core."
+    },
+    {
+      "word": "galaxy",
+      "description": "A massive system of stars, gas, and dust held together by gravity."
+    },
+    {
+      "word": "forest",
+      "description": "A large area covered chiefly with trees and undergrowth."
+    },
+    {
+      "word": "computer",
+      "description": "An electronic device that processes data and performs tasks."
+    },
+    {
+      "word": "volcano",
+      "description": "A mountain that can erupt lava, ash, and gases."
+    },
+    {
+      "word": "bicycle",
+      "description": "A human-powered vehicle with two wheels."
+    },
+    {
+      "word": "library",
+      "description": "A place where books and other media are stored for reading or borrowing."
+    },
+    {
+      "word": "desert",
+      "description": "A dry, barren area with little rainfall."
+    },
+    {
+      "word": "planet",
+      "description": "A celestial body orbiting a star."
+    },
+    {
+      "word": "bridge",
+      "description": "A structure built to span physical obstacles like rivers or roads."
+    },
+    {
+      "word": "castle",
+      "description": "A large fortified building from the medieval period."
+    },
+    {
+      "word": "diamond",
+      "description": "A hard, precious gemstone made of carbon."
+    },
+    {
+      "word": "rainbow",
+      "description": "A multicolored arc formed by light and water droplets in the sky."
+    },
+    {
+      "word": "engine",
+      "description": "A machine designed to convert energy into motion."
+    },
+    {
+      "word": "island",
+      "description": "A piece of land completely surrounded by water."
+    },
+    {
+      "word": "mountain",
+      "description": "A large natural elevation of the Earth's surface."
+    },
+    {
+      "word": "clock",
+      "description": "A device used to measure and display time."
+    },
+    {
+      "word": "rocket",
+      "description": "A vehicle designed to travel into space."
+    },
+    {
+      "word": "shadow",
+      "description": "A dark shape formed when an object blocks light."
+    }
+  ]
+}
